@@ -21,7 +21,7 @@ export const Topics = [
     },
   {
     id: 3,
-    temat: `1. Kulturalny Rozkwit`,
+    temat: `Kulturalny Rozkwit`,
     opis: `W tym okresie Polska była centrum kulturalnym Europy, przyciągając artystów, naukowców i intelektualistów. Znaczący był udział króla Jana III Sobieskiego w bitwie pod Wiedniem w 1683 roku, co miało wpływ na ochronę chrześcijaństwa przed ekspansją Imperium Osmańskiego.`,
     daty: ``,
   },
