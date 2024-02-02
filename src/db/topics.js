@@ -21,14 +21,14 @@ export const Topics = [
     },
   {
     id: 3,
-    temat: ``,
-    opis: ``,
+    temat: `1. Kulturalny Rozkwit`,
+    opis: `W tym okresie Polska była centrum kulturalnym Europy, przyciągając artystów, naukowców i intelektualistów. Znaczący był udział króla Jana III Sobieskiego w bitwie pod Wiedniem w 1683 roku, co miało wpływ na ochronę chrześcijaństwa przed ekspansją Imperium Osmańskiego.`,
     daty: ``,
   },
   {
     id: 4,
-    temat: ``,
-    opis: ``,
+    temat: `Konflikty Polityczne`,
+    opis: `Mimo kulturalnego rozkwitu, Polska była podatna na wewnętrzne konflikty polityczne. System liberum veto (weto) sprawiał, że decyzje Sejmu mogły być łatwo zablokowane przez jednego posła, co osłabiło stabilność państwa.`,
     daty: ``,
   },
 ]
